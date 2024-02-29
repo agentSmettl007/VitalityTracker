@@ -1,5 +1,5 @@
 # VitalityHealth
-GitHub Repository for a App-Project.
+GitHub Repository for a App-Project written in Flutter.
 
 # Team Members
 - Benjamin Smetana
